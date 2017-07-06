@@ -7,7 +7,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3514",
-                "color": "white",
+                "color": "pink",
                 "state": "MN"
 			},
 			"geometry": {
@@ -105,7 +105,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3529",
-                "color": "white",
+                "color": "pink",
                 "state": "IA"
 			},
 			"geometry": {
@@ -179,7 +179,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3546",
-                "color": "white",
+                "color": "pink",
                 "state": "IL"
 			},
 			"geometry": {
@@ -275,7 +275,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3547",
-                "color": "white",
+                "color": "pink",
                 "state": "IN"
 			},
 			"geometry": {
@@ -339,7 +339,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3550",
-                "color": "white",
+                "color": "pink",
                 "state": "OH"
 			},
 			"geometry": {
@@ -412,7 +412,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3553",
-                "color": "white",
+                "color": "pink",
                 "state": "WI"
 			},
 			"geometry": {
@@ -526,7 +526,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3562",
-                "color": "white",
+                "color": "pink",
                 "state": "MI"
 			},
 			"geometry": {
