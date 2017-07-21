@@ -3,13 +3,13 @@
 	"features": [
 		{
 			"type": "Feature",
-			"id": 3,
+			"id": 1,
 			"properties": {
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
                 "color": "red",
-				"adm1_code": "USA-3517",
-                "state": "HI"
+				"adm1_code": "USA-35171",
+                "state": "WAORIDMT"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
