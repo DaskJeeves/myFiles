@@ -5,10 +5,10 @@
 			"type": "Feature",
 			"id": 3,
 			"properties": {
-				"scalerank": 2,
+				"scalerank": 3,
 				"featurecla": "Admin-1 scale rank",
                 "color": "red",
-				"adm1_code": "USA-3517",
+				"adm1_code": "USA-35173",
                 "state": "SDNEKSWYNMCOND"
 			},
 			"geometry": {

@@ -3,12 +3,12 @@
 	"features": [
 		{
 			"type": "Feature",
-			"id": 3,
+			"id": 4,
 			"properties": {
-				"scalerank": 2,
+				"scalerank": 4,
 				"featurecla": "Admin-1 scale rank",
                 "color": "red",
-				"adm1_code": "USA-3517",
+				"adm1_code": "USA-35174",
                 "state": "MNIAILINOHWIMI"
 			},
 			"geometry": {

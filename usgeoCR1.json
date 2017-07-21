@@ -5,7 +5,7 @@
 			"type": "Feature",
 			"id": 1,
 			"properties": {
-				"scalerank": 2,
+				"scalerank": 1,
 				"featurecla": "Admin-1 scale rank",
                 "color": "red",
 				"adm1_code": "USA-35171",

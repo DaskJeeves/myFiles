@@ -3,12 +3,12 @@
 	"features": [
 		{
 			"type": "Feature",
-			"id": 3,
+			"id": 2,
 			"properties": {
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
                 "color": "red",
-				"adm1_code": "USA-3517",
+				"adm1_code": "USA-35172",
                 "state": "UTNVCAAZ"
 			},
 			"geometry": {
