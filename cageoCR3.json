@@ -8,7 +8,7 @@
 				"color": "orange"
 			},
 			"geometry": {
-				"type": "Polygon",
+				"type": "MultiPolygon",
 				"coordinates": [
 					[
 						[
