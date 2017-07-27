@@ -2,6 +2,7 @@
 	"type": "FeatureCollection",
 	"features": [{
 		"type": "Feature",
+        "id": 13,
 		"properties": {
 			"NAME": "WEST COAST - BC",
 			"CODE": "CA01",
