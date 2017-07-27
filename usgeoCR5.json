@@ -9,7 +9,7 @@
 				"featurecla": "Admin-1 scale rank",
                 "color": "red",
 				"adm1_code": "USA-35175",
-                "state": "ARMOOKLATXALMS"
+                "state": "lightblue"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
