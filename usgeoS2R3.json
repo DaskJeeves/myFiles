@@ -8,7 +8,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3554",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "WV",
                 "region": 3
 			},
@@ -99,7 +99,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3552",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "VA",
                 "region": 3
 			},
@@ -193,7 +193,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3548",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "KY",
                 "region": 3
 			},
@@ -288,7 +288,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3549",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "NC",
                 "region": 3
 			},
@@ -346,7 +346,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3545",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "SC",
                 "region": 3
 			},
@@ -399,7 +399,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3543",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "GA",
                 "region": 3
 			},
@@ -463,7 +463,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3542",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "FL",
                 "region": 3
 			},
@@ -522,7 +522,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3551",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "TN",
                 "region": 3
 			},
@@ -589,7 +589,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3541",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "AL",
                 "region": 3
 			},
@@ -633,7 +633,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3544",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "MS",
                 "region": 3
 			},
@@ -692,7 +692,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3528",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "AR",
                 "region": 3
 			},
@@ -749,7 +749,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3535",
-                "color": "orange",
+                "color": "darkorange",
                 "state": "LA",
                 "region": 3
 			},

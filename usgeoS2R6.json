@@ -7,7 +7,7 @@
 			"properties": {
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
-                "color": "darkorange",
+                "color": "gold",
 				"adm1_code": "USA-3515",
                 "state": "MT",
                 "region": 6
@@ -75,7 +75,7 @@
 			"properties": {
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
-                "color": "darkorange",
+                "color": "gold",
 				"adm1_code": "USA-3518",
                 "state": "ID",
                 "region": 6
@@ -153,7 +153,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3527",
-                "color": "darkorange",
+                "color": "gold",
                 "state": "WY",
                 "region": 6
 			},
@@ -189,7 +189,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3526",
-                "color": "darkorange",
+                "color": "gold",
                 "state": "UT",
                 "region": 6
 			},
@@ -217,7 +217,7 @@
 				"scalerank": 2,
 				"featurecla": "Admin-1 scale rank",
 				"adm1_code": "USA-3522",
-                "color": "darkorange",
+                "color": "gold",
                 "state": "CO",
                 "region": 6
 			},
